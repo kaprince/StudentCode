@@ -22,7 +22,7 @@ public class StudentTester {
         studentList[0]=s1;
         
         studentList[1]=new Student("Leo",123);
-        studentList[2]=new Student("Sheetal",111);
+        studentList[2]=new Student("Sheetal",11);
         
         for(int i=0;i<studentList.length;i++)
         {
